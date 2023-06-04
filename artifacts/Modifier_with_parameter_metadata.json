@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fund",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Modifier_with_parameter.sol": "Modifier_with_parameter"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Modifier_with_parameter.sol": {
+			"keccak256": "0x2e5a247d93bbd1368c36fbbb1efe58a5b563f06b7741f5617662770add337e90",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4fc25838e10ac2a41e8b059d96d6f0bfce54e2011ac290edb1be971f599af5ec",
+				"dweb:/ipfs/QmP8Z8Hezf2mnFBtpg1LRYLGYQd3fXLXG1eECZJ3JY882z"
+			]
+		}
+	},
+	"version": 1
+}

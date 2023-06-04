@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "func",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Modifier.sol": "Modifier"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Modifier.sol": {
+			"keccak256": "0x15319e31b8f6c9b43a5b8fad80c50fd7dd4b5bc062fc70e444f985610ca1b987",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c09701ff8808c5bff90bd8905958b7463c55c3febabb4e14f56ded7d1868f06c",
+				"dweb:/ipfs/QmRa4aGNdSF3s7Z8TedHPca1DW7XYEEoTnTgke4xezBsre"
+			]
+		}
+	},
+	"version": 1
+}
